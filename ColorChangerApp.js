@@ -11,7 +11,7 @@ const ColorChangerApp = () => {
             
             <Button title="Light Pink" onPress={() => setBackgroundColor('lightpink')} />
             
-            <Button title="Light  Grey" onPress={() => setBackgroundColor('lightgrey')} />
+            <Button title="Red" onPress={() => setBackgroundColor('red')} />
         </View>
     );
 };
