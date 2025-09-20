@@ -1,5 +1,3 @@
-
-/*/ App.js
 import React from 'react';
 import { SafeAreaView } from 'react-native';
 import CounterApp from './CounterApp';
@@ -14,9 +12,9 @@ const App = () => {
     );
 };
 
-export default App;*/
+export default App;
 
-import React from 'react';
+/*import React from 'react';
 import { SafeAreaView } from 'react-native';
 import ChatScreen from './ChatScreen'; 
 import CommentSection from './CommentSection'
@@ -32,7 +30,7 @@ const App = () => {
   );
 };
 
-export default App;
+export default App;*/
 
 
 
