@@ -30,7 +30,7 @@ export default function CommentSection() {
       <View style={styles.inputRow}>
         <TextInput
           style={styles.input}
-          placeholder="Write a comment..."
+          placeholder="Comment Pogi"
           value={newComment}
           onChangeText={setNewComment}
         />
