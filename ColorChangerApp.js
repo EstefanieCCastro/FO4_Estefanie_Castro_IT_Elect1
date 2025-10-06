@@ -7,7 +7,7 @@ const ColorChangerApp = () => {
 
     return (
         <View style={[styles.container, { backgroundColor }]}>
-            <Button title="Default (white)" onPress={() => setBackgroundColor('white')} />
+            <Button title="Default (white)" onPress={() => setBackgroundColor('grey')} />
             
             <Button title="Light Pink" onPress={() => setBackgroundColor('lightpink')} />
             
