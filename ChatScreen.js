@@ -11,7 +11,7 @@ import {
 const ChatScreen = () => {
   const [messages, setMessages] = useState([
     { id: '1', text: 'Cge gors', sender: 'user' },
-    { id: '2', text: 'Thank u beri beri muchie🥰', sender: 'user' },
+    { id: '2', text: 'Thank u beri beri ', sender: 'user' },
     { id: '3', text: 'haba gors AHAHAHA', sender: 'other' },
     { id: '4', text: 'vccc, hindi ko maklaroo', sender: 'other' },
   ]);
